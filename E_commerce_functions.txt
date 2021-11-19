@@ -1,0 +1,30 @@
+There're two types of roles 
+1)admins 
+2)users
+
+admin_functions
+
+1)register and verify email to login.
+2)login and logout.
+3)Change Password if admin forget password when login
+4)view his account and can edit it.
+5)Add, edit and delete image from slider.
+6)Add, edit and delete Product.
+7)Add, edit and delete about us page contents.
+8)View number of products and users in system.
+9)View each cart of user (user_name, product_name, cart_id )
+10)View ContactUs Messages.
+
+
+
+user_functions
+
+1)register and verify email to login.
+2)login and logout.
+3)Change Password if user forget password when login
+4)view his account and can edit it.
+5)Search for products.
+6)view details for each product
+7)Add and delete product from cart.
+8)Add and delete product from favorites 
+9)send message from contact us form.
